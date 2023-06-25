@@ -68,3 +68,7 @@ yarn.lock
 .DS_Store
 .vscode
 *.xslx
+Thumbs.db
+
+#build file
+client/dist/
