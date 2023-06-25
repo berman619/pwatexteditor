@@ -5,6 +5,10 @@
 ## Description 
 This project is a Progressive Web App (PWA) text editor. It was created as part of the Columbia Coding Boot Camp, utilizing starter code provided by the program. The application allows users to write, edit, and save text, with the added benefit of offline access and functionality.
 
+## Screenshot 
+
+![JATE Screenshot](/client/src/images/JATEscreenshot.png)
+
 ## Table of Contents 
 - [Installation](#installation)
 - [Usage](#usage)
